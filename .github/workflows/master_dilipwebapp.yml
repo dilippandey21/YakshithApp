@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DilipWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDEA6A709B6F4381914E199892F220C7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_468F4D961D4B47D08F8378761CFA88D9 }}
           package: .
